@@ -15,7 +15,7 @@ export default function Home() {
 
       <ul>
         <li><span className="proj">*projectname*</span> Short description of what it does (2024) [ <a href="#">code</a> ]</li>
-        <li><span className="proj">*anotherproject*</span> Another short description (2023) [ <a href="#">site</a>, <a href="#">code</a> ]</li>
+        <li><span className="proj">*how-do-you-think*</span> trying out vercel (2026) [ <a href="how-do-you-think.vercel.app">site</a>, <a href="https://github.com/ballyc/how-do-you-think">repo</a> ]</li>
         <li><span className="proj">*pomodoro timer*</span> trying out Claude artifacts (2024) [ <a href="/pomodoro">app</a> ]</li>
       </ul>
 
