@@ -6,9 +6,8 @@ export default function Home() {
 
       <ul>
         <li>Email: <a href="mailto:root@ballyc.sh">root@ballyc.sh</a></li>
-        <li>X: <a href="https://x.com/yourhandle">@yourhandle</a></li>
-        <li>Github: <a href="https://github.com/yourhandle">yourhandle</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/yourhandle">yourhandle</a></li>
+        <li>Github: <a href="https://github.com/ballyc">ballyc</a></li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/chloe-bally">chloe</a></li>
         <li>Job: Your Role at <a href="#">Company</a></li>
       </ul>
 
@@ -17,7 +16,7 @@ export default function Home() {
       <ul>
         <li><span className="proj">*projectname*</span> Short description of what it does (2024) [ <a href="#">code</a> ]</li>
         <li><span className="proj">*anotherproject*</span> Another short description (2023) [ <a href="#">site</a>, <a href="#">code</a> ]</li>
-        <li><span className="proj">*thirdproject*</span> Yet another project description (2022) [ <a href="#">paper</a>, <a href="#">code</a> ]</li>
+        <li><span className="proj">*pomodoro timer*</span> trying out Claude artifacts (2024) [ <a href="/pomodoro">app</a> ]</li>
       </ul>
 
       <h2>## Posts</h2>
