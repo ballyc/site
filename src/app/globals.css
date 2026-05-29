@@ -81,3 +81,25 @@ a:hover {
 section {
   margin-bottom: 0;
 }
+
+/* --- additions for post pages --- */
+
+/* Body paragraphs */
+p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+/* Inline code — file paths, slugs, command names */
+code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #ffffff;
+  padding: 0.05rem 0.3rem;
+  border-radius: 2px;
+  font-size: 0.95em;
+}
+
+/* strong is already bold by default, but keep it consistent with .proj weight */
+strong {
+  font-weight: bold;
+}

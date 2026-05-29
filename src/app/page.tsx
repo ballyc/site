@@ -5,27 +5,19 @@ export default function Home() {
       <h1># Chloe Bally</h1>
 
       <ul>
-        <li>Email: <a href="mailto:root@ballyc.sh">root@ballyc.sh</a></li>
+        <li>Email: <a href="mailto:ballyc@umich.edu">ballyc@umich.edu</a></li>
         <li>Github: <a href="https://github.com/ballyc">ballyc</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/chloe-bally">chloe</a></li>
-        <li>Job: Your Role at <a href="#">Company</a></li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/chloe-bally">chloe-bally</a></li>
       </ul>
 
       <h2>## Projects</h2>
 
       <ul>
-        <li><span className="proj">*projectname*</span> Short description of what it does (2024) [ <a href="#">code</a> ]</li>
-        <li><span className="proj">*how-do-you-think*</span> trying out vercel (2026) [ <a href="how-do-you-think.vercel.app">site</a>, <a href="https://github.com/ballyc/how-do-you-think">repo</a> ]</li>
-        <li><span className="proj">*pomodoro timer*</span> trying out Claude artifacts (2024) [ <a href="/pomodoro">app</a> ]</li>
+        <li><span className="proj">*company-brief*</span> a Claude Code skill that researches a company across three depth layers, labels every fact by source reliability, and saves a searchable brief (2026) [ <a href="/my-AI-engineering-stack">post</a>, <a href="https://github.com/ballyc/my-claude-skills" target="_blank">repo</a> ]</li>
+        <li><span className="proj">*how-do-you-think*</span> using vercel (2026) [ <a href="https://how-do-you-think.vercel.app" target="_blank">site</a>, <a href="https://github.com/ballyc/how-do-you-think" target="_blank">repo</a> ]</li>
+        <li><span className="proj">*pomodoro timer*</span> testing out Claude artifacts (2024) [ <a href="/pomodoro">app</a> ]</li>
       </ul>
 
-      <h2>## Posts</h2>
-
-      <ul>
-        <li><a href="#">Post Title One</a> (2025)</li>
-        <li><a href="#">Post Title Two</a> (2024)</li>
-        <li><a href="#">Post Title Three</a> (2023)</li>
-      </ul>
 
       <h2>## Notes, ideas and scratchpads</h2>
 
