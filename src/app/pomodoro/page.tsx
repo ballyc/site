@@ -14,7 +14,7 @@ export default function PomodoroPage() {
       <h1># Pomodoro Timer</h1>
 
       <p style={{ margin: '1rem 0' }}>
-        <span className="proj">*pomodoro*</span> Yet another project description (2022)
+        <span className="proj">*pomodoro*</span> two years ago feels like a decade old (2024)
       </p>
 
       <iframe
