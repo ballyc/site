@@ -24,7 +24,7 @@ export default function PromptAbstractPage() {
           </h1>
 
           <p style={{ color: "#888", fontSize: 13, marginBottom: "2.5rem", lineHeight: 1.6 }}>
-            Jenny Cleary*, Liying Chen*, Grant King, Chloe Bally, Srijan Sen, Amy Bohnert, Rahul Ladhania
+            Jenny Cleary*, Liying Chen*, Chloe Bally, Grant King, Srijan Sen, Amy Bohnert, Rahul Ladhania
           </p>
 
           <p style={p}>
