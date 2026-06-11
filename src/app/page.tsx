@@ -27,6 +27,12 @@ export default function Home() {
         <li><a href="#">independent paper:</a> on game theory & the AI Capex hyperscaler race (2025) <span className="note-date">— coming soon</span></li>
       </ul>
 
+      <h2>## Experience snapshots</h2>
+
+      <ul>
+        <li><span className="proj">Amazon Lab126 contract work</span>; recap note [ <a href="/experience">notes</a> ]</li>
+      </ul>
+
     </main>
   )
 }
