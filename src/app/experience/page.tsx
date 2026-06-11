@@ -11,7 +11,7 @@ export default function AmazonExperiencePage() {
       </ul>
 
       <p>
-        My Amazon contract work, structured as input → analysis → output so I can remember it.
+        My Amazon contract work, structured as input → analysis → output so I can remember it (fyi: Goal is to show the structure and thought process; I didn't clean the jargon)
       </p>
 
       <h2>Input ingested — what the team gathered</h2>
