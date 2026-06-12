@@ -4,15 +4,26 @@ export default function AmazonExperiencePage() {
   return (
     <main>
 
-      <h1>Amazon: linking input to output</h1>
+      <h1>Workflow deconstruction example</h1>
 
       <ul>
         <li><Link href="/">← back</Link></li>
       </ul>
 
       <p>
-        My Amazon contract work, structured as input → analysis → output so I can remember it (fyi: Goal is to show the structure and thought process; I didn't clean the jargon)
+       I had a consulting engagement for a BigTech company. The brief was to fix a slow, manual device-provisioning process for schools. The real finding: fixing it isn't worth solving in itself; it's worth solving the bigger system.
+       Short structured recap below, to show thought process.
+      
       </p>
+
+      <h2>recap mental model</h2>
+
+      <p>
+        <strong>Input:</strong> 18 interviews + market data → 22 pain points.<br></br>
+        <strong>Analysis:</strong> map to 5-stage journey → 3-filter funnel (frequency → time → deviation) → 3 prioritized areas with quantified fixes → reality check ($960/yr is too small).<br></br>
+        <strong>Output:</strong> don't sell provisioning, sell a one-stop tech shop — build the device first, sequence the fixes, and only large players can win.
+      </p>
+---
 
       <h2>Input ingested — what the team gathered</h2>
 
@@ -68,18 +79,6 @@ export default function AmazonExperiencePage() {
 
       <p>
         <strong>The strategic caveat:</strong> full-chain integration is a barrier to entry — feasible only for large players, who must position as either a differentiator (beat iPadOS experience) or a low-cost leader.
-      </p>
-
-      <h2>One-line mental model</h2>
-
-      <p>
-        <strong>Input:</strong> 18 interviews + market data → 22 pain points.<br></br>
-        <strong>Analysis:</strong> map to 5-stage journey → 3-filter funnel (frequency → time → deviation) → 3 prioritized areas with quantified fixes → reality check ($961.5/yr is too small).<br></br>
-        <strong>Output:</strong> don&apos;t sell provisioning, sell a one-stop tech shop — build the device first, sequence the fixes, and only large players can win.
-      </p>
-
-      <p>
-        The hook to remember it: <strong>the analysis solves the provisioning problem, but the output reframes it</strong> — the real finding is that solving provisioning isn&apos;t enough.
       </p>
 
     </main>
